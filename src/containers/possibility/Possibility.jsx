@@ -6,7 +6,7 @@ function Possibility() {
   return (
     <StyledPossibility>
       <div className="image">
-        <img src="/src/assets/possibility.png" alt="virtual glasses" />
+        <img src="/possibility.png" alt="virtual glasses" />
       </div>
       <div className="section-content">
         <p>Request Early Access to Get Started</p>

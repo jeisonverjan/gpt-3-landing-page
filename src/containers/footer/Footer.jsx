@@ -10,7 +10,7 @@ function Footer() {
       </div>
       <div className="content">
         <div className="content-column content-column-title">
-          <img src="/src/assets/logo.svg" />
+          <img src="/logo.svg" />
           <p>Crechterwoord K12 182 DK Alknjkcb, All Rights Reserved</p>
         </div>
         <div className="content-column">

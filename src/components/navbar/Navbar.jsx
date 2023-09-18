@@ -9,7 +9,7 @@ function Navbar() {
   return (
     <StyledNavbar>
       <Logo className="logo">
-        <img src="/src/assets/logo.svg" alt="logo" />
+        <img src="/logo.svg" alt="logo" />
       </Logo>
       <SignUp className="sign-up">
         <p>Sign in</p>
