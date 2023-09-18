@@ -7,7 +7,7 @@ import {
   Header,
   Wrapper,
 } from "./containers";
-import { CTA, Brand, Navbar } from "./components";
+import { Cta, Brand, Navbar } from "./components";
 import GlobalStyles from "./styles/GlobalStyles";
 
 const App = () => (
@@ -21,7 +21,7 @@ const App = () => (
     <WhatGPT3 />
     <Features />
     <Possibility />
-    <CTA />
+    <Cta />
     <Blog />
     <Footer />
   </>

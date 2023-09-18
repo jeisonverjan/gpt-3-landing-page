@@ -17,7 +17,7 @@ function NavList({ menuOpen }) {
         <a href="#caseStudies">Case Studies</a>
       </NavItem>
       <NavItem>
-        <a href="#Library">Library</a>
+        <a href="#library">Library</a>
       </NavItem>
     </StyledNavList>
   );
@@ -37,7 +37,7 @@ const StyledNavList = styled.ul`
   gap: 10px;
   padding: 30px;
   gap: 15px;
-  
+
   @media screen and (min-width: 768px) {
     order: 2;
     flex: 1;

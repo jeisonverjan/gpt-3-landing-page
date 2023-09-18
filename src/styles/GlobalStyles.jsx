@@ -12,6 +12,7 @@ const GlobalStyles = createGlobalStyle`
     --color-blog: #042c54;
     --color-text: #81AFDD;
     --color-subtext: #FF8A71;
+    --color-subtext-variation: #71E5FF;
     --color-text-basic: #ffffff;
     --color-btn-bg: #FF4820;
     }
@@ -31,6 +32,7 @@ const GlobalStyles = createGlobalStyle`
     a {
         color: unset;
         text-decoration: none;
+        font-family: var(--font-family);
     }
 
     li {

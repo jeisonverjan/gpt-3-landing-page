@@ -3,7 +3,7 @@ import { google, slack, atlassian, dropbox, shopify } from "./imports";
 
 function Brand() {
   return (
-    <StyledBrand>
+    <StyledBrand id="openAi">
       <div>
         <img src={google} />
       </div>
@@ -32,7 +32,6 @@ const StyledBrand = styled.div`
 
   @media screen and (min-width: 768px) {
     padding-top: 2rem;
-
   }
 
   @media screen and (min-width: 1200px) {
