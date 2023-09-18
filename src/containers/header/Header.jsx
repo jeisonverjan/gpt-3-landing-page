@@ -22,12 +22,12 @@ function Header() {
           <button>Get Started</button>
         </Form>
         <People className="people">
-          <img src="/src/assets/people.png" alt="comments" />
+          <img src="/people.png" alt="comments" />
           <p>1,600 people requested access a visit in last 24 hours</p>
         </People>
       </div>
       <div className="image">
-        <img src="/src/assets/ai.png" alt="ia" />
+        <img src="/ai.png" alt="ia" />
       </div>
     </StyledHeader>
   );
